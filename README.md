@@ -7,22 +7,22 @@ If you'd like to report a bug, suggest a feature, or ask a question, you can do 
 
 👉 Steps to Create an Issue:
 
-Click on the "Issues" tab at the top.
+1)Click on the "Issues" tab at the top.
 
 
-Click the green "New issue" button on the right.
+2)Click the green "New issue" button on the right.
 
 
-Choose the appropriate template (e.g., Bug Report, Feature Request, or Question).
+3)Choose the appropriate template (e.g., Bug Report, Feature Request, or Question).
 
 
-Fill in the form with as much detail as possible.
+4)Fill in the form with as much detail as possible.
 
 
-Click "Submit new issue".
+5)Click "Submit new issue".
 
 
-We’ll review your issue and get back to you as soon as possible. Thank you for helping us improve OrbitTap - Space Game!
+6)We’ll review your issue and get back to you as soon as possible. Thank you for helping us improve OrbitTap - Space Game!
 
 
 
